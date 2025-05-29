@@ -17,7 +17,7 @@ import java.util.*;
 			}
 			for(int i=0;i<n;i++) {
 				for(int j=0;j<m;j++) {
-					System.out.println("Enter name"+(j+1)+"Enter College"+(i+1)+":"+arr[i][j]);
+					System.out.println("Enter name"+(j+1)+"Enter Collegeee"+(i+1)+":"+arr[i][j]);
 				}
 			}
 		
